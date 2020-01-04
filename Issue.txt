@@ -1,0 +1,51 @@
+
+C:\Users\admin\Downloads\React Redux\React google map\New folder\demo-google-places-react-master>npm config list
+; cli configs
+metrics-registry = "https://registry.npmjs.org/"
+scope = ""
+user-agent = "npm/6.9.0 node/v10.16.3 win32 x64"
+
+; userconfig C:\Users\admin\.npmrc
+https-proxy = "http://proxy.company.com:8080/"
+key = "value"
+proxy = "http://localhost:8080/"
+registry = "https://registry.npmjs.org/"
+
+; builtin config undefined
+prefix = "C:\\Users\\admin\\AppData\\Roaming\\npm"
+
+; node bin location = C:\Program Files\nodejs\node.exe
+; cwd = C:\Users\admin\Downloads\React Redux\React google map\New folder\demo-google-places-react-master
+; HOME = C:\Users\admin
+; "npm config ls -l" to show all defaults.
+
+
+
+//
+
+Manage the npm configuration files
+
+SYNOPSIS
+npm config set <key> <value> [-g|--global]
+npm config get <key>
+npm config delete <key>
+npm config list [-l] [--json]
+npm config edit
+npm get <key>
+npm set <key> <value> [-g|--global]
+
+aliases: c
+
+//
+
+npm ERR! code ENOTFOUND
+npm ERR! errno ENOTFOUND
+npm ERR! network request to https://registry.npmjs.org/react failed, reason: getaddrinfo ENOTFOUND proxy.company.com proxy.company.com:8080
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\tmp\empty-cache\_logs\2019-12-15T17_04_56_430Z-debug.log

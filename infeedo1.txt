@@ -1,0 +1,85 @@
+
+We're looking for a Backend Developer, proficient in Node.js, to join our Engineering Team. As an engineer focusing on Amber’s global growth, you'll be working on various high impact features that will help existing and prospective users make the most out of Amber.
+
+
+
+You will be responsible for shipping high impact features, developing new modules, upgrading and scaling Amber at inFeedo. Your expertise, problem-solving methodologies, and agility will fuel the future of the product.
+
+
+
+No. of positions: 2
+
+ 
+
+What will you be doing?
+
+Primary Responsibility:
+-Employ your knowledge of Node.js and MySQL to knit together our AWS infrastructure, existing platform, and SaaS technologies to build the core of Amber's backend infrastructure.
+-Design database architecture.
+Execution: Work alongside your team to grow the product’s features, add new modules and ensure stability and security.
+Collaboration:
+-You will directly work with the CPO to improve our processes in order to build a high performing engineering team.
+-You will collaborate with our Customer Success team to drive client integrations.
+
+
+Who will you work with?
+
+Varun Puri, Nipun, Ishan and of course the rest of the jovial inFeedo team you'll find at the end of this page. 
+
+
+Requirements
+
+
+What skills do you need?
+
+Experience:
+-3+ years of industry experience in working on a Node.js project, preferably building a SaaS product. 
+-Good understanding and experience in working with the MEAN stack. (M = MySQL but NoSQL is welcome as well)
+Cross-Functional Approach: Experience in collaborating directly with product teams, designers and customer success teams. A proven track record of delivering value to customers or users is a must.
+Communication: Good communication skills since we focus on transparency and clear communication.
+Critical Skills: Ability to handle the stress of multiple on-going projects and ad-hoc ops.
+Bonus Points
+Experience in B2B SaaS
+Alignment to our core values
+Brownie Points: Knowledge of automated testing platforms and unit tests.
+
+
+
+What happens after you apply?
+
+Within 15 days of your application - which is wholesome, original & expressive - our People Team will reach out to you for a quick chat.
+Within 4-6 days of chatting with the People Team, you will get a call from someone from your future team to discuss the job role.
+If all goes well, we’ll welcome you to our office for your future manager to deep dive into the role with you and for you to show off your skills through a small task.
+After a quick interaction with the People Team, If our vibes match, a tête-à-tête with the founding team follows
+Finally, we high-five and jot down the next steps for you to come join us. :)
+At any step if things don't work out, we proactively send an email. You are welcome to ask for feedback and reapply in future. :)
+
+
+Our expectations before you click “Apply Now”
+
+Read about inFeedo and Amber
+Read about inFeedo’s core values
+
+
+Perks 
+
+Top 7 reasons that make inFeedo a great place to work:
+
+Limitless horizontal & vertical growth opportunities across functions
+Employee Stock Options
+Quarterly BadAss Bonuses 
+Mentorship from Industry Leaders
+Flat Hierarchy
+Sponsored Participation for HRTech/Networking events 
+Competitive Referral Policy
+
+
+7 other reasons that make inFeedo a great place to work:
+
+Free Lunch, Unlimited Blue Tokai Coffee & Chai Point Chai
+Flexible PTO (Paid Time Off)
+Competitive Salaries & Pay for Performance Culture
+100% Mental Health Cover  
+Macbooks
+WeWork Office
+Weekly Team Celebrations
